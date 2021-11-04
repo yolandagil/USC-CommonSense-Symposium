@@ -6,4 +6,4 @@
 ---
 <img src="images/Gil.jpg" alt="Gil" width="100" />
 
-[Yolanda Gil](https://viterbi.usc.edu/directory/faculty/Gil/Yolanda), Information Sciences Institute, University of Southern California
+**[Yolanda Gil](https://viterbi.usc.edu/directory/faculty/Gil/Yolanda), Information Sciences Institute, University of Southern California**
