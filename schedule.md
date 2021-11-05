@@ -17,13 +17,13 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 10:00 | 11:00 | **Session I: Common Sense Reasoning**  |  |
 |  |  | *Explaining with Common Sense* <br> [Xiang Ren](http://ink-ron.usc.edu/xiangren/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="100" /> |
 |  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, School of Engineering | <img src="images/Ciosici.jpeg" width="100" /> |
-|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.google.com/view/skim-home/home) <br> xyz | <img src="images/Nevatia.jpg" width="100" /> |
+|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br> Fletcher Jones Professor in Computer Science and Professor of Computer Science and Electrical and Computer Engineering | <img src="images/Nevatia.jpeg" width="100" /> |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="100" /> |
 | 10:00 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Session II: Organizing Common Sense**  |  |
-|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br>  | <img src="images/Szekely.jpg" width="100" /> |
+|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Principal Scientist and Director of the AI Division, USC/ISI;  Research Associate Professor, USC Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="100" /> |
 |  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="100" /> |
-|  |  | *From Data to Common Sense* <br> [Muhao Chen](https://sites.google.com/view/skim-home/home) <br>  | <img src="images/Chen.jpg" width="100" /> |
+|  |  | *From Data to Common Sense* <br> [Muhao Chen](https://sites.google.com/view/skim-home/home) <br>    Assistant Research Professor of Computer Science | <img src="images/Chen.jpeg" width="100" /> |
 |  |  | *Crowdsourced Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="100" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Invited Talk: TBD** | |
