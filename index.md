@@ -5,7 +5,7 @@ title: USC AI Futures Symposium on AI with Common Sense
 ---
 
 
-<img src="images/AI-CS-Symposium-Flier.jpg" alt="AI-DS-Symposium-Flier" width="1000" />
+<img src="images/AI-CS-Symposium-Flier.jpeg" alt="AI-CS-Symposium-Flier" width="1000" />
 
 
 Humans use common sense knowledge to understand how the world works.  AI systems still lack common sense knowledge, which is critical in many domains in order to form expectations, manage unexpected situations, and connect with the human experience. This symposium presents an overview of research at USC on acquiring and organizing commonsense knowledge, integrating it into AI systems, and measuring its impact on improving AI system behaviors and interactions with people.
