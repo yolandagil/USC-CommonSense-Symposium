@@ -16,11 +16,11 @@ This event is part of the USC AI Futures Symposium Series. Prior events were hel
 
 The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.
 
-A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-CommonSense-Repository/schedule).
+A preliminary agenda is available [here](https://isi-usc-edu.github.io/USC-CommonSense-Symposium/schedule).
 
 ## Attending
 
-Please register [here](https://isi-usc-edu.github.io/USC-CommonSense-Repository/register).
+Please register [here](https://isi-usc-edu.github.io/USC-CommonSense-Symposium/register).
 
 ## Questions?
 
