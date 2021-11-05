@@ -13,10 +13,10 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
-|  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="100" /> |
+|  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, School of Engineering | <img src="images/Ilievski.jpg" width="100" /> |
 | 10:00 | 11:00 | **Session I: Common Sense Reasoning**  |  |
 |  |  | *Explaining with Common Sense* <br> [Xiang Ren](http://ink-ron.usc.edu/xiangren/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="100" /> |
-|  |  | *Predicting Events* <br> [Manuel Ciosici](http://users.loni.usc.edu/~thompson/thompson.html) <br> xyz | <img src="images/Ciosici.jpg" width="100" /> |
+|  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, School of Engineering | <img src="images/Ciosici.jpeg" width="100" /> |
 |  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.google.com/view/skim-home/home) <br> xyz | <img src="images/Nevatia.jpg" width="100" /> |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="100" /> |
 | 10:00 | 10:15 | **Break**  |  |
