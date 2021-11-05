@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USC AI Futures Symposium on Artificial Intelligence and Data Science
+title: USC AI Futures Symposium on AI with Common Sense
 ---
 ---
 
