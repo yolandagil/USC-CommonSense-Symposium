@@ -14,21 +14,23 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
 |  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="100" /> |
-|  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="100" />  |
-| 9:00 | 9:45 | **Invited Talk I: [Jeannette Wing](https://www.cs.columbia.edu/~wing/), Columbia University** <br> Professor of Computer Science, The Fu Foundation School of Engineering and Applied Science; Avanessians Director, Data Science Institute | <img src="images/Wing.jpg" width="100" /> |
-| 9:45 | 10:00 | **Break**  |  |
-| 10:00 | 11:00 | **Session I: Data Everywhere**  |  |
-|  |  | Session Chair: [Wael AbdAlmageed](https://www.isi.edu/people/wamageed/) <br> Research Associate Professor in Electrical and Computer Engineering, Viterbi School of Engineering; Research Team Leader, Information Sciences Institute, Viterbi School of Engineering  | <img src="images/AbdAlmageed.jpg" width="100" /> |
-|  |  | *Text Analysis in Finance* <br> [Gerard Hoberg](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> Professor of Finance, Marshall School of Business | <img src="images/Hoberg.jpg" width="100" /> |
-|  |  | *Image Analysis in Neuroscience* <br> [Paul Thompson](http://users.loni.usc.edu/~thompson/thompson.html) <br> Professor of Ophthalmology, Neurology, Psychiatry and the Behavioral Sciences, Radiology, Psychiatry, and Engineering, Keck School of Medicine <br> Associate Director, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine | <img src="images/Thompson.jpg" width="100" /> |
-|  |  | *New Eyes on Our Cities* <br> [Seon Kim](https://sites.google.com/view/skim-home/home) <br> Research Scientist, Integrated Media Systems Center, Viterbi School of Engineering | <img src="images/Kim.jpg" width="100" /> |
+| 10:00 | 11:00 | **Session I: Common Sense Reasoning**  |  |
+|  |  | *Explaining with Common Sense* <br> [Xiang Ren](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br> xyz | <img src="images/Ren.jpg" width="100" /> |
+|  |  | *Predicting Events* <br> [Manuel Ciosici](http://users.loni.usc.edu/~thompson/thompson.html) <br> xyz | <img src="images/Ciosici.jpg" width="100" /> |
+|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.google.com/view/skim-home/home) <br> xyz | <img src="images/Nevatia.jpg" width="100" /> |
+|  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="100" /> |
+| 10:00 | 10:15 | **Break**  |  |
+| 10:15 | 11:00 | **Session II: Organizing Common Sense**  |  |
+|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](http://faculty.marshall.usc.edu/Gerard-Hoberg/) <br>  | <img src="images/Szekely.jpg" width="100" /> |
+|  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Team Leader, USC/ISI | <img src="images/Freedman.jpg" width="100" /> |
+|  |  | *From Data to Common Sense* <br> [Muhao Chen](https://sites.google.com/view/skim-home/home) <br>  | <img src="images/Chen.jpg" width="100" /> |
 |  |  | *Spatial Data for Transportation* <br> [Yao-Yi Chiang](https://yaoyichi.github.io) <br> Associate Professor (Research), Spatial Sciences Institute, Dornsife College of Letters, Arts and Sciences | <img src="images/Chiang.jpg" width="100" /> |
-|  |  | *Discrimination in Ad Delivery* <br> [Aleksandra Korolova](https://www.korolova.com) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Korolova.jpg" width="100" /> |
+|  |  | *Crowdsourced Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="100" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Invited Talk: TBD** | |
 
 
-## Tuesday May 4, 2021
+## Wednesday December 8, 2021
 
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
