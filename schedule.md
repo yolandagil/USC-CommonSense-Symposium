@@ -40,10 +40,10 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Transferring Knowledge* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/May.jpg" width="100" /> |
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 10:45 | **Session IV: Common Sense in AI Agents and Robots** |  |
-|  |  | *Modeling Emotions* <br> [Jon Gratch](http://morteza-dehghani.net) <br> xyz | <img src="images/Gratch.jpg" width="100" /> |
-|  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> xyz | <img src="images/Nikolaidis.jpg" width="100" /> |
+|  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Director for Virtual Humans Research, Institute for Creative Technologies; Research Professor, USC Viterbi School of Engineering Computer Science Department | <img src="images/Gratch.jpeg" width="100" /> |
+|  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science | <img src="images/Nikolaidis.jpeg" width="100" /> |
 |  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics | <img src="images/Mataric.jpg" width="100" /> |
-|  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute | <img src="images/Pazzani.jpg" width="100" /> |
+|  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute | <img src="images/Pazzani.jpeg" width="100" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
 |  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="100" /> |
